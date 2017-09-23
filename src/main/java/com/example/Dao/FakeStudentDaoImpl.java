@@ -8,10 +8,6 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by sergiosilva on 9/20/17.
- */
-
 @Repository
 @Qualifier("fakeData")
 public class FakeStudentDaoImpl implements StudentDao {

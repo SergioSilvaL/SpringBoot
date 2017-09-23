@@ -4,9 +4,6 @@ import com.example.Entity.Student;
 
 import java.util.Collection;
 
-/**
- * Created by sergiosilva on 9/21/17.
- */
 public interface StudentDao {
     Collection<Student> getAllStudents();
 

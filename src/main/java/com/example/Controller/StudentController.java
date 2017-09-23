@@ -8,10 +8,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
 
-/**
- * Created by sergiosilva on 9/20/17.
- */
-
 @RestController
 @RequestMapping("/students")
 public class StudentController {

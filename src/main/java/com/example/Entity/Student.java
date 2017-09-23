@@ -1,8 +1,5 @@
 package com.example.Entity;
 
-/**
- * Created by sergiosilva on 9/20/17.
- */
 public class Student {
 
     private int id;

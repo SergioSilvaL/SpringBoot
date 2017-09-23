@@ -8,10 +8,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.Collection;
 
-/**
- * Created by sergiosilva on 9/20/17.
- */
-
 @Service
 public class StudentService {
 
